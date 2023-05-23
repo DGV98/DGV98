@@ -1,9 +1,5 @@
 <h1 style="text-align: center;">Hi, I'm David 👋</h1>
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player style="align:center;" src="https://assets1.lottiefiles.com/packages/lf20_GbabwrUY2k.json"  background="transparent"  speed="1"  style="width: 10px; height: 10px;"  loop autoplay></lottie-player>
-
-
 ## About Me
 I am an enthusiastic self-taught software engineer with a focus on designing customer-driven products. Before this, I graduated from the University of Chicago majoring in Molecular Engineering with a focus on Quantum Information, as I am passionate about learning how the new generation of computers might change our society. Currently I am working on building my front end development skills by building out generative AI applications, but I love using Python to generate data driven insights.
 
